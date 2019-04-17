@@ -1,0 +1,41 @@
+NAME...Randy
+
+EXTRAVERSION.........5
+Friendliness.........3
+Gregariousness.......4
+Assertiveness........54
+Activity Level.......4
+Excitement-Seeking...56
+Cheerfulness.........1
+
+AGREEABLENESS...52
+Trust...........24
+Morality........61
+Altruism........45
+Cooperation.....93
+Modesty.........45
+Sympathy........31
+
+CONSCIENTIOUSNESS......29
+Self-Efficacy..........52
+Orderliness............18
+Dutifulness............41
+Achievement-Striving...35
+Self-Discipline........26
+Cautiousness...........47
+
+NEUROTICISM..........88
+Anxiety..............88
+Anger................35
+Depression...........98
+Self-Consciousness...95
+Immoderation.........85
+Vulnerability........48
+
+OPENNESS TO EXPERIENCE...19
+Imagination..............19
+Artistic Interests.......50
+Emotionality.............75
+Adventurousness..........5
+Intellect................1
+Liberalism...............71

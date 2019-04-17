@@ -1,0 +1,58 @@
+{
+  "NAME": "Randy",
+  "EXTRAVERSION": {
+    "Overall Score": 5,
+    "Facets": {
+      "Friendliness": 3,
+      "Gregariousness": 4,
+      "Assertiveness": 54,
+      "Activity Level": 4,
+      "Excitement-Seeking": 56,
+      "Cheerfulness": 1
+    }
+  },
+  "AGREEABLENESS": {
+    "Overall Score": 52,
+    "Facets": {
+      "Trust": 24,
+      "Morality": 61,
+      "Altruism": 45,
+      "Cooperation": 93,
+      "Modesty": 45,
+      "Sympathy": 31
+    }
+  },
+  "CONSCIENTIOUSNESS": {
+    "Overall Score": 29,
+    "Facets": {
+      "Self-Efficacy": 52,
+      "Orderliness": 18,
+      "Dutifulness": 41,
+      "Achievement-Striving": 35,
+      "Self-Discipline": 26,
+      "Cautiousness": 47
+    }
+  },
+  "NEUROTICISM": {
+    "Overall Score": 88,
+    "Facets": {
+      "Anxiety": 88,
+      "Anger": 35,
+      "Depression": 98,
+      "Self-Consciousness": 95,
+      "Immoderation": 85,
+      "Vulernability": 48
+    }
+  },
+  "OPENNESS TO EXPERIENCE": {
+    "Overall Score": 19,
+    "Facets": {
+      "Imagination": 19,
+      "Artistic Interests": 50,
+      "Emotionality": 75,
+      "Adventurousness": 5,
+      "Intellect": 1,
+      "Liberalism": 71
+    }
+  }
+}
